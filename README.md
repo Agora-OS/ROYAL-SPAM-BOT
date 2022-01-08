@@ -1,26 +1,26 @@
-# 𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥𝗦
+# 𝗥𝗢𝗬𝗔𝗟 𝗕𝗢𝗧
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 𝟯𝟬 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥](t.me/Professor_agora)
+## [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥](t.me/Professor_agora)
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a7667fd76685907f87b31.jpg">
+  <img src="https://te.legra.ph/file/fffcec7230765ca173ad7.jpg">
 </p>
 
 
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PROFESSOR-OS/MH-Spam-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/ROYAL-SPAM-BOT)
 
-# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗔𝗚𝗢𝗥𝗔 𝗚𝗔𝗡𝗚𝗦𝗧𝗘𝗥
+# 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗥𝗢𝗬𝗔𝗟 𝗕𝗢𝗧
 
    - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟹𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
-   - 𝙼𝙾𝙽𝙴𝚈 𝙷𝙴𝙸𝚂𝚃 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝙵𝙰𝚂𝚃 𝙰𝙽𝙳 𝚂𝚃𝚁𝙾𝙽𝙶
+   - 𝚁𝙾𝚈𝙰𝙻 𝙱𝙾𝚃 𝙸𝚂 𝙵𝙰𝚂𝚃 𝙰𝙽𝙳 𝚂𝚃𝚁𝙾𝙽𝙶
 
    - REPLYRAID , RAID PLUGIN , HANDLER *
 
