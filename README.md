@@ -4,7 +4,7 @@
 ### SUDO HANDLER 
 ### * plugins like (*ping), 
 ### aa (*bigspam) , (*raid) ,(*replyraid) and more
-## [𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗢𝗥](t.me/Professor_agora)
+## [𝗥𝗢𝗬𝗔𝗟 𝗕𝗢𝗧](t.me/Professor_agora)
 
 <p align="center">
   <img src="https://te.legra.ph/file/fffcec7230765ca173ad7.jpg">
